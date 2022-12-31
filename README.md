@@ -1,6 +1,5 @@
 # docsimages
 docs图床，发布到npm <br>
-图片格式：https://npm.elemecdn.com/@it985/docsimages@latest/hzw.webp(https://npm.elemecdn.com/@it985/docsimages/hzw.webp)
 ##格式--推荐知乎
 【jsd出品，网宿国内节点】<br>
 https://npm.elemecdn.com/:package@:version/:file <br>
