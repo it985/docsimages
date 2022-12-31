@@ -1,5 +1,5 @@
 {
-  "name": "docsimages",
+  "name": "@it985/docsimages",
   "version": "1.0.0",
   "description": "docs的静态资源",
   "main": "index.js",
