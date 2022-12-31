@@ -1,6 +1,6 @@
 # docsimages
 docs图床，发布到npm <br>
-##格式--推荐知乎
+## 格式--推荐知乎
 【jsd出品，网宿国内节点】<br>
 https://npm.elemecdn.com/:package@:version/:file <br>
 【知乎出品，网宿国内节点】 <br>
