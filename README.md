@@ -11,7 +11,7 @@ https://code.bdstatic.com/npm/:package@:version/:file <br>
 https://shadow.elemecdn.com/npm/:package@:version/:file <br>
 ## demo1
 最新版本<br>
-![demo1](https://npm.elemecdn.com/@it985/docsimages@latest/hzw.webp)
+![demo1](https://npm.elemecdn.com/@it985/docsimages@latest/001/hzw.webp)
 ## demo2
 默认master<br>
-![demo2](https://npm.elemecdn.com/@it985/docsimages/hzw.webp)
+![demo2](https://npm.elemecdn.com/@it985/docsimages/001/hzw.webp)
