@@ -1,3 +1,4 @@
+// 网站指定日期变灰
 var d = new Date();
 m=d.getMonth()+1;
 dd=d.getDate();
